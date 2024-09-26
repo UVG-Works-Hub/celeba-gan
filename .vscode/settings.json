@@ -1,0 +1,8 @@
+{
+    "cSpell.language": "en,es-ES",
+    "files.exclude": {
+        "**/img_align_celeba": true, // this excludes all folders
+                                // named "img_align_celeba" from
+                                // the explore tree
+    }
+}
