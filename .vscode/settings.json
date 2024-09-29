@@ -4,5 +4,8 @@
         "**/img_align_celeba": true, // this excludes all folders
                                 // named "img_align_celeba" from
                                 // the explore tree
-    }
+    },
+    "cSpell.words": [
+        "hiperparámetros"
+    ]
 }
